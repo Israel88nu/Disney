@@ -81,7 +81,7 @@ section{
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 50px;
-	box-sizing: border-box; /*mantiene el tamaño original*/
+	box-sizing: border-box; /*mantiene el tamaño original*//*mantiene el tamaño original*/
 }
 	article,aside,#contenido{
 		width: 100%;
